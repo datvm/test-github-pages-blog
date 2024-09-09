@@ -1,6 +1,6 @@
 ---
 title: "My first blog post"
-date: 2024-09-10
+date: 2024-09-09
 ---
 
 # Artificial Intelligence (AI)
